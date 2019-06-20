@@ -1,1 +1,1 @@
-# StepIT C++
+# StepIT C
